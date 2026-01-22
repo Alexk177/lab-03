@@ -9,4 +9,4 @@ List any resources used here, or simply put `N/A` if not applicable.
 | Student Name | CCID      |
 | ------------ | --------- |
 | `Alex Kalmykov`    | `Kalmykov` |
-| `<Add more>` | `<CCID>`  |
+| `N/A` | ``N/A`  |
